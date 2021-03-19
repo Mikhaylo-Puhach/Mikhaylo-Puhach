@@ -1,5 +1,5 @@
 __version__ = '1.7.1'
-__author__ = 'lordralinc'
+__author__ = '\n🏆Автор: [purful2121|Михайло Пугач]'
 
 DEFAULT_DATABASE = {
   "tokens": [],
